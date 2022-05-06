@@ -1,0 +1,6 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(#ffffff, #b3b3b3);
+  height: 100vh;
+  overflow: auto;
+}
